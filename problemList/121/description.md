@@ -54,4 +54,4 @@ Can you come up with an algorithm that runs in `O(n)` time?
 ## Related Topics
 
 - Array
-- Dynamic Programming
+- Dynamic Programming - Sliding Window
